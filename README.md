@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=potato-js&label=Profile%20views&color=0e75b6&style=flat" alt="potato-js" /> </p>
 
-- 🔭 I’m currently working on **Nothing atm 😉**
+- 🔭 I’m currently working on **Nothing for now 😉**
 
 - 🌱 I’m currently learning **Javascript, Python, C**
 
