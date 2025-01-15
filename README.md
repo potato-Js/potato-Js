@@ -51,3 +51,8 @@
 <img src="https://raw.githubusercontent.com/Potato-js/Potato-js/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<h2 align="left">Current Projects:</h2>
+
+- [weeb-bot](https://github.com/Potato-js/weeb-bot): A Discord-Bot filled with many commands + a dashboard.
+- [Popup-Flash-Cards](https://github.com/Potato-js/Popup-Flash-Cards): A Windows Program that forces you to answer your flash cards.
